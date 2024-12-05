@@ -19,7 +19,7 @@
 
 1. Bu projeyi klonlayın:
     ```bash
-    git clone https://github.com/kullanici/YasamKocu.git
+    git clone https://github.com/kerim47/YasamKocu.git
     ```
 
 2. Proje dizinine gidin:
