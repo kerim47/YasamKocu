@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yaşam Koçum</string>
+    <string name="gemini_api_key">AIzaSyDQUv_4QvshXZCWyl0VZQ_h6_og0NCI-HI</string>
+    <string name="yasam_kocum_str">Yaşam Koçum</string>
+    <string name="prompt_str">Bilimsel kaynaklara ve sağlıklı yaşam kurallarına göre bir sağlık planı oluştur:\n\nMevcut Durum:\n- Uyku Düzeni: %1$s\n- Beslenme Alışkanlıkları: %2$s\n- Spor Aktiviteleri: %3$s\n\nHedef: %4$s\n\nDetaylı bir günlük plan ve tavsiyeler ver. Plan bilimsel verilere dayalı olmalı ve kullanıcının mevcut durumunu ve hedefini dikkate almalı.</string>
+    <string name="uyku_duzeni_msg_str">Uyku Düzeniniz (Örn: Günde 6 saat, düzensiz)</string>
+    <string name="beslenme_aliskanliklar_msg_str">Beslenme Alışkanlıklarınız (Örn: Çok fast food)</string>
+    <string name="spor_aktivite_msg_str">Spor Aktiviteleriniz (Örn: Haftada 2 kez spor)</string>
+    <string name="hedefiniz_msg_str">Hedefiniz:</string>
+    <string name="kilo_vermek_msg_str">Kilo Vermek</string>
+    <string name="kas_kazanmak_msg_str">Kas Kazanmak</string>
+    <string name="fitness_msg_str">Fitness</string>
+</resources>
